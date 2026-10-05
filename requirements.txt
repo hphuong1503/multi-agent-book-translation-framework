@@ -1,0 +1,6 @@
+# Core dependencies for Multi-Agent Book Translation Framework
+pymupdf>=1.24.0
+python-docx>=1.1.0
+EbookLib>=0.18
+Pillow>=10.0.0
+lxml>=5.0.0
